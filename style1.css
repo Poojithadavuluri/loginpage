@@ -1,0 +1,94 @@
+.hi{
+    font-style: italic;
+    padding-left: 100px;
+
+}
+.card1{
+    background-color: grey;
+    width: 200px;
+    height: 150px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.card-box{
+    display: flex;
+    column-gap: 25px;
+    padding-left: 100px;
+
+}
+.main-card{
+    border-radius: 10px;
+    background-color:whitesmoke;
+    width: 1300px;
+    margin-left: 20px;
+}
+.location{
+    display: flex;
+    flex-wrap: row;
+    
+}
+.main-box{
+    display: flex;
+    column-gap: 50px;
+}
+.A{
+    /* background-color: whitesmoke; */
+    height: auto;
+
+}
+.Pending{
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-top: 40px;
+    
+}
+.Pendingcard{
+    display: flex;
+    column-gap: 25px;
+    padding-left: 80px;
+}
+.Newcard{
+    background-color:whitesmoke;
+    width: 150px;
+    height: 180px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    padding-left: 60px;
+    padding-top:40px;
+    
+}
+.para1{
+    padding-right: 20px;
+    font-size: 12px;
+}
+.para2{
+    color:skyblue;
+}
+.Newcard1{
+    display: flex;
+    flex-direction: row;
+}
+.Jobs{
+    display: flex;
+    flex-direction: row;
+}
+.options{
+    display: flex;
+    flex-direction: column;
+}
+.Newcard1{
+    column-gap: 20px;
+}
+.total{
+    display: flex;
+    flex-direction: column;
+}
+.B{
+    padding: 20px;
+}
+.C {
+    margin-top: 80px;
+}
